@@ -43,8 +43,8 @@ I'm an Android and full-stack developer from India with a passion for building b
 
 <div align="center">
   <a href="https://github.com/Shawnferns-004">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shawnferns-004&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&title_color=3DDC84&text_color=ECEFF1&icon_color=3DDC84" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shawnferns-004&theme=material-palenight&hide_border=true&background=00000000&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakNum=ECEFF1&sideNums=ECEFF1&currStreakLabel=ECEFF1&sideLabels=ECEFF1&dates=B0BEC5" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shonferns004&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&title_color=3DDC84&text_color=ECEFF1&icon_color=3DDC84" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shonferns004&theme=material-palenight&hide_border=true&background=00000000&stroke=3DDC84&ring=3DDC84&fire=3DDC84&currStreakNum=ECEFF1&sideNums=ECEFF1&currStreakLabel=ECEFF1&sideLabels=ECEFF1&dates=B0BEC5" />
   </a>
 </div>
 
