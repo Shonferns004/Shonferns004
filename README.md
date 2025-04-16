@@ -50,7 +50,7 @@ I'm an Android and full-stack developer from India with a passion for building b
 
 <div align="center">
   <a href="https://github.com/Shawnferns-004">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shawnferns-004&theme=react-dark&bg_color=1F1F1F&color=3DDC84&line=3DDC84&point=3DDC84&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shonferns004&theme=react-dark&bg_color=1F1F1F&color=3DDC84&line=3DDC84&point=3DDC84&hide_border=true" />
   </a>
 </div>
 
